@@ -1,7 +1,8 @@
 # Plant_Disease_Detection_Project
 A machine learning-based project to detect plant diseases using leaf images. This tool helps farmers, gardeners, and agricultural experts quickly identify plant diseases, leading to faster treatment and better crop health.
 
-Features
+#Features:
+
 🔍 Detects multiple plant diseases from leaf images.
 
 🧠 Machine Learning / Deep Learning-based classification.
